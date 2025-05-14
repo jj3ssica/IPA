@@ -1,0 +1,1 @@
+Esse projeto se trata da criação de um banco de dados, desenvolvido do zero para treinar conceitos aprendidos e realizar buscas.
