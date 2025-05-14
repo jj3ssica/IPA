@@ -80,3 +80,6 @@ DROP COLUMN data_inscricao;
 
 ALTER TABLE materias
 MODIFY valor_hora DECIMAL(60,2);
+
+ALTER TABLE inscricao
+ADD modalidade VARCHAR(100);
